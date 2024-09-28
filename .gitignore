@@ -34,6 +34,9 @@ DerivedData/
 *.dSYM.zip
 *.dSYM
 
+# Ignore the Firebase config file for iOS
+GoogleService-Info.plist
+
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
